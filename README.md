@@ -54,9 +54,28 @@
 </p>
   
 ### 📊 GitHub Stats:
+
+ <a href="https://github-profile-trophy.vercel.app/?username=akmaurya7"><img src="https://github-profile-trophy.vercel.app/?username=PiyushKumar23-12&theme=radical" alt="akmaurya7"/></a>
+ <br/>
+  <br/>
+<div align="center">
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PiyushKumar23-12&theme=dark&hide_border=false)<br/>
+<br/>
 ![](https://github-readme-stats.vercel.app/api?username=PiyushKumar23-12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushKumar23-12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushKumar23-12&theme=synthwave-84&true&hide_border=true" />
+</div>
+
+  </div>
+
+    
+<!--<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PiyushKumar23-12&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PiyushKumar23-12&theme=radical"> -->
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
