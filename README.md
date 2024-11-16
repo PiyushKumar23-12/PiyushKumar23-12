@@ -55,7 +55,7 @@
   
 ### 📊 GitHub Stats:
 
- <a href="https://github-profile-trophy.vercel.app/?username=akmaurya7"><img src="https://github-profile-trophy.vercel.app/?username=PiyushKumar23-12&theme=radical" alt="akmaurya7"/></a>
+ <a href="https://github-profile-trophy.vercel.app/?username=PiyushKumar23-12"><img src="https://github-profile-trophy.vercel.app/?username=PiyushKumar23-12&theme=radical" alt="PiyushKumar23-12"/></a>
  <br/>
   <br/>
 <div align="center">
